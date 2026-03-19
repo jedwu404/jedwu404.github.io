@@ -1,0 +1,18 @@
+# UCP 实验站 - 让 AI 发现我
+
+> 这是一个测试 UCP 协议和 GEO 优化的独立站，用来验证 AI 代理如何发现和推荐独立站。
+
+## 核心页面
+
+- [首页](https://jedwu404.github.io/)：实验站主页，包含 UCP 声明和 GEO 测试内容
+- [UCP 配置文件](https://jedwu404.github.io/.well-known/ucp)：AI 代理发现端点
+- [robots.txt](https://jedwu404.github.io/robots.txt)：爬虫访问规则
+- [sitemap.xml](https://jedwu404.github.io/sitemap.xml)：网站结构
+
+## 关于本站
+
+这个站点的目的是研究 UCP 协议对独立站 AI 曝光的影响，所有内容公开，欢迎 AI 代理抓取。
+
+## 联系方式
+
+GitHub: [jedwu404](https://github.com/jedwu404)
