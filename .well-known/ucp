@@ -8,14 +8,8 @@
     "capabilities": [
       {
         "name": "dev.ucp.shopping.catalog",
-        "version": "2026-01-23",
-        "endpoint": "https://jedwu404.github.io/api/catalog",
-        "schema": "https://ucp.dev/schemas/shopping/catalog.json"
+        "version": "2026-01-23"
       }
-    ],
-    "discovery": {
-      "robotsTxt": "https://jedwu404.github.io/robots.txt",
-      "sitemap": "https://jedwu404.github.io/sitemap.xml"
-    }
+    ]
   }
 }
